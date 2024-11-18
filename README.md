@@ -8,7 +8,8 @@
    - `MV_Game_Decryptor.py` (source code)
    - `MV Game Decryptor.exe` (Windows distribution)
 4. ⏳ **Wait** for the process to complete.
-5. 🎉 Once finished, a file named `Game.rpgproject` will be generated in the `www` folder. Open it with RPG Maker MV.
+5. 🎉 **Once completed**, a file named "Game.rpgproject" will be created in the `www` folder.
+6. 🎮 **Open** the file with RPG Maker MV and edit it like a regular project.
 
 ## Requirements 🔧
 For the Source Code:
