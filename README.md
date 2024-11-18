@@ -16,6 +16,15 @@ For the Source Code:
 - 🐍 **Python** (install from [python.org](https://www.python.org/))  
 - 📦 **Colorama library** (install via `pip install colorama`)
 
+## Terms of Use ⚠️
+🆓 This project is completely free, so it is prohibited to sell 💸 or restrict access to it through payment.
+
+It is designed to support the community, so do not use it to steal projects, code, graphic assets, or any other content. Its purpose is to help you:
+- 🔄 Recover your own projects.
+- 🌐 Create unofficial translations.
+- 🛠️ Develop mods and ports.
+- ✅ And any other use that is ethical and morally acceptable.
+
 ## Credits & Acknowledgments 🙌
 This project was made possible thanks to the work of [Petschko](https://gitlab.com/Petschko), the creator of the [RPG Maker MV Decrypter](https://gitlab.com/Petschko/RPG-Maker-MV-Decrypter), which served as the foundation for this tool. The development was done in Python using the following libraries:  
 - `concurrent` ⚙️  
