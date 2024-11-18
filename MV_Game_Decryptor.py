@@ -13,6 +13,7 @@ def load_json(file_path):
         print(f"- {Fore.RED}{Style.BRIGHT}Error: 'System.json' is empty or has an invalid format")
     except FileNotFoundError:
         print(f"- {Fore.RED}{Style.BRIGHT}Error: File not found {file_path}")
+    
     return None
 
 def get_rpgproject_path(script_path):
@@ -32,6 +33,7 @@ def validate_project_files(project_files):
     if missing_files:
         print(f"- {Fore.RED}{Style.BRIGHT}Error: Missing required files: {', '.join(f.name for f in missing_files)}")
         return False
+    
     return True
 
 def update_system_file(project_files):
