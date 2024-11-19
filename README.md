@@ -16,6 +16,9 @@ For the Source Code:
 - 🐍 **Python** (install from [python.org](https://www.python.org/))  
 - 📦 **Colorama library** (install via `pip install colorama`)
 
+For the Windows Version:  
+- ✅ No additional installations are required.  
+
 ## Terms of Use ⚠️
 🆓 This project is completely free, so it is prohibited to sell 💸 or restrict access to it through payment.
 
