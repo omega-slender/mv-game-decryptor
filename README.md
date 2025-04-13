@@ -37,6 +37,7 @@ This project was made possible thanks to the work of [Petschko](https://gitlab.c
 - `sys` 🔧  
 - `json` 📜  
 - `shutil` 🛠️
+- `os` 🗂️
 
 ## Contact 🌐  
 Discover more about me and my projects on my [Linktree](https://linktr.ee/omega_slender). 🌟
