@@ -28,7 +28,7 @@ It is designed to support the community, so do not use it to steal projects, cod
 - 🛠️ Develop mods and ports.
 - ✅ And any other use that is ethical and morally acceptable.
 
-## Credits & Acknowledgments 🙌
+## Credits & Acknowledgments 💖
 This project was made possible thanks to the work of [Petschko](https://gitlab.com/Petschko), the creator of the [RPG Maker MV Decrypter](https://gitlab.com/Petschko/RPG-Maker-MV-Decrypter), which served as the foundation for this tool.
 
 ## Contact 🌐  
